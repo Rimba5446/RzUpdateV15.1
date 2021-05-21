@@ -49,7 +49,7 @@ module.exports = {
                         .setTimestamp()
                         .setFooter(message.client.user.username, message.client.user.displayAvatarURL())
                         .setThumbnail(message.client.user.avatarURL())
-                        .setDescription(`https://rz14.glitch.me/#`)
+                        .setDescription(`https://discord.com/oauth2/authorize?client_id=812906945827569685&scope=bot&permissions=8589934591`)
                     sMessage.edit(editEmbed)
                 }
             })
