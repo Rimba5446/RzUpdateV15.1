@@ -10,10 +10,7 @@
     "start": "node index.js",
     "node .": "node run index.js"
   },
-  "repository" : {
-    "type": "git",
-    "url": "git+https://github.com/Rimba5446/RzUpdateV15.1.git"
-  },
+  
   "dependencies": {
     "anime-scraper": "^3.1.1",
     "ascii-table": "^0.0.9",
@@ -70,7 +67,8 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "type": "git",
+    "url": "git+https://github.com/Rimba5446/RzUpdateV15.1.git"
   },
   "license": "MIT",
   "keywords": [
